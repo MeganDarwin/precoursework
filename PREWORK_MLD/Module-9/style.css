@@ -1,0 +1,27 @@
+
+p{}
+	#second {color:red}
+	#third {color:blue}
+	#fourth {color:green}
+	#big {font-size:large}
+	#tiny {font-size:x-small}
+	#centered {text-align:center}
+	#bold {font-weight:bold}
+	#font {font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif}
+	#multiple {font-weight:bold;
+			   font-size:large;
+			   color:orange}
+
+
+.styledFont {
+	text-align:center;
+	color:aquamarine;
+	font-size:xx-large;
+	font-weight:bold;
+	font-family:"Georgia", serif}
+
+#styledImage{
+	border-style:double;
+	padding:5px;
+	border-size:10px;
+    border-color:green}
